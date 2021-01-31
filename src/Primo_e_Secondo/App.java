@@ -28,7 +28,7 @@ public class App {
         mobArr.add(m);
         
         System.out.println("---MOBILI DISPONIBILI---\n");
-        pm.scegliMobile(mobArr, 400.0, 150, 60, 20);
+        pm.scegliMobile(mobArr, 400.0, 150, 60, 30);
 
     }
 
